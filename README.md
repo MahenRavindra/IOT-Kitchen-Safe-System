@@ -1,0 +1,2 @@
+# IOT-Kitchen-Safe-System
+We create Iot product prototype to buld safe kitchen environment mainly focusing on prevent flames. We using alert system to send warning message to house owner by Sms , Call , warning alarms. And house owner can see realtime data in https://thingspeak.com .  We create safety feature to when gas leakage detect system automatically on fan to decrease the gas level in kitchen &amp; fan also help to maintain temperature and make comfertable environment.
